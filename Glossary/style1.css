@@ -1,0 +1,233 @@
+@font-face {
+    font-family:sweetcherry ;
+    src:url(../assets/fonts/SweetCherry/SweetCherryFree.otf);
+}
+*{
+    margin: 0;
+    padding: 0;
+    scroll-behavior: smooth;
+}
+.wrapper{
+    margin-top: 30px;
+    text-align: center;
+}
+.wrapper h3 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #8E2DE2;
+    margin-bottom: 20px;
+    font-size: 76px;
+}
+.alphabets{
+    width: 100%;
+    margin: auto;
+    text-align: center;
+}
+.alphabates a {
+    padding: 10px;
+    text-decoration: none;
+    box-shadow: 3px 3px 4px gray;
+    font-family:cursive;
+    font-weight: bolder;
+    border: 3px ridge brown;
+    font-size:18px;
+}
+.set{
+    
+    margin-top: 30px;
+    
+}
+.detail{
+    margin-top: 50px;
+    align-items: center;
+    display:flex;
+    box-shadow: 5px 5px 10px;
+    border: 5px ridge brown;
+    padding: 50px;
+    
+    width: 50%;
+    
+}
+.icon{
+    margin-left: 250px;
+}
+.icon img{
+    width: 150px;
+}
+.alph {
+    font-size: 80px;
+    margin-right: 20px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+
+}
+.alph2 {
+    font-size: 70px;
+    font-family: sweetcherry;
+   
+   margin-left: 20px;
+}
+.A {
+    color: red;
+}
+.B{
+    color: red;
+}
+.C{
+    color: red; 
+}
+.D{
+    color: red;
+}
+.E{
+    color: red;
+}
+.F{
+    color: red;
+}
+.G{
+    color: red;
+}
+.H{
+    color: red;
+}
+.I{
+    color: red;
+}
+.J{
+    color: red;
+}
+.K{
+    color: red;
+}
+.L{
+    color: red;
+}
+.M{
+    color: red;
+}
+.N{
+    color: red;
+}
+.O{
+    color: red;
+}
+.P{
+    color: red;
+}
+.Q{
+    color: red;
+}
+.R{
+    color: red;
+}
+.S{
+    color: red;
+}
+.T{
+    color: red;
+}
+.U{
+    color: red;
+}
+.V{
+    color: red;
+}
+.W{
+    color: red;
+}
+.X{
+    color: red;
+}
+.Y{
+    color: red;
+}
+.Z{
+    color: red;
+}
+/*============================form======================*/
+.form_wrapper {
+    background: #fff;
+    padding: 20px;
+    width: 60%;
+    margin: 0 auto;
+    /* height: 300px; */
+    border-radius: 20px;
+}
+.form_heading {
+    text-align:center;
+}
+.form_heading img {
+    width: 100%;
+}
+label {
+    font-size: 18px;
+    margin-right: 50px;
+    font-family: PoppinsMedium;
+    padding-right: 600px;
+    font-weight: bolder;
+}
+input {
+    width: 100%;
+    border: none;
+    border-bottom: 1px solid #000;
+    font-size: 18px;
+    margin-bottom: 15px;
+    padding-top: 20px;
+}
+table {
+    display: table;
+    border-collapse: separate;
+    box-sizing: border-box;
+    text-indent: initial;
+    
+    border-spacing: 2px;
+    border-color: gray;
+}
+tbody {
+    display: table-row-group;
+    vertical-align: middle;
+    
+}
+td {
+    text-align: center;
+    padding: 10px;
+}
+h4 {
+    font-family: PoppinsMedium;
+}
+span.n {
+    font-size: 18px;
+    font-family: Skranji;
+}
+td img {
+    width: 36px;
+}  
+textarea {
+    width: 98%;
+    padding: 10px;
+    margin-top: 18px;
+    height: 109px;
+    font-size: 18px;
+} 
+.button_submit {
+    text-align: center;
+    margin-top: 30px;
+}
+input[type="submit"] {
+    width: 50%;
+    background: #000;
+    color: #fff;
+    padding: 10px 10px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+.message label{
+    margin: 0px 12px 0px 0px;
+    padding: 50px;
+    font-weight: bolder;
+} 
+.toptobtm {
+    text-align: right;
+}
+.toptobtm img {
+    width: 150px;
+}
